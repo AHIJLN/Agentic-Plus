@@ -320,6 +320,3 @@ make eval-no-report ENV=development
 
 ---
 
-## License
-
-见 `LICENSE`。
